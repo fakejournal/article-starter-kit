@@ -17,7 +17,7 @@ Use an empty line to separate multiple paragraphs.
 参考 `info.toml` 来向编辑们提供作者、机构等信息。
 
 ## 附件
-若构建 PDF 需要任何附件（例如图片），请放近 `assets` 目录。可以多层目录嵌套。
+若构建 PDF 需要任何附件（例如图片），请放入 `assets` 目录。可以多层目录嵌套。
 
 
 
