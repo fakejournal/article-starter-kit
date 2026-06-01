@@ -3,6 +3,8 @@ title = """
 文章的标题填写在这里
 """
 
+authors_simple = "韩信, 白起"       # 纯文本最简形式来标明作者
+
 abstract = """
 Abstract is the primary public description of the article; it is not pumping elephant.
 
