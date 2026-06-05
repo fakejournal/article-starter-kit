@@ -1,0 +1,54 @@
+[article]
+title = """
+Here is the title of the article
+"""
+
+authors_simple = "M. Stormrage, T. Whisperwind"       # Specify the plaintext edition of author names
+
+abstract = """
+Abstract is the primary public description of the article; it is not pumping elephant.
+
+Use an empty line to separate multiple paragraphs.
+"""
+
+
+
+
+
+# Describe every author
+
+[[author]]
+full_name = "Malfurion Stormrage"
+index_name = "Stormrage, M."
+email = "user1@example.com"
+orcid = "0000-0002-1825-0097"   ### Keep empty if not applicable
+corresponding = true            ### Is this author the corresponding author?
+affiliations = [ 1, 2 ]         ### Affiliations in an array
+
+
+[[author]]
+full_name = "Tyrande Whisperwind"
+index_name = "Whisperwind, T."
+email = "user2@example.com"
+orcid = "0000-0003-4418-1234"   ### Keep empty if not applicable
+corresponding = false           ### Set to false, if not the corresponding author
+affiliations = [ 2 ]            ### Affiliations in an array
+
+
+
+
+
+# Institutions to be referenced. Ok to leave empty.
+
+[affiliations.1]
+organization = "Cenarion Council"
+city = "Darnassus"
+country = "XXX"
+ror = "https://ror.org/123456789"
+
+[affiliations.2]
+organization = "Sentinel"
+city = "Darnassus"
+country = "XXX"
+ror = "https://ror.org/012345678"
+

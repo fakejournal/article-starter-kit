@@ -1,14 +1,19 @@
 # article-starter-kit
 
-准备撰写第一篇投稿？从这个脚手架开始。
+[English](README.md)
+[简体中文](README.zh.md)
+
+
+
+Ready to write a manuscript? Use this starter kit.
 
 
 
 ## Typst
-参考 [example_typst](https://github.com/fakejournal/article-starter-kit/blob/main/example_typst) 目录内的文件。
+See directory [example_typst_en](https://github.com/fakejournal/article-starter-kit/blob/main/example_typst_en).
 
 ## Markdown
-参考 [example_markdown](https://github.com/fakejournal/article-starter-kit/blob/main/example_markdown) 目录内的文件。
+See directory [example_markdown_en](https://github.com/fakejournal/article-starter-kit/blob/main/example_markdown_en).
 
 
 
