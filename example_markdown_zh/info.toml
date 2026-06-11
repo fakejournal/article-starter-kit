@@ -31,7 +31,7 @@ full_name = "白起"
 index_name = "Bai, Q."
 email = "user2@example.com"
 orcid = "0000-0003-4418-1234"   ### 无则留空
-corresponding = false           ## 不是通讯作者
+corresponding = false           ### 不是通讯作者
 affiliations = [ 2 ]            ### 依序号引用所在机构
 
 
