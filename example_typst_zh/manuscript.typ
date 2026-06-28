@@ -1,7 +1,7 @@
 // 举个例子，字体字号等样式可以这样设置。
 #set text(size: 10pt, font: ("TeX Gyre Termes", "Nimbus Roman", "Times New Roman", "Noto Serif CJK SC"))
 #set page(paper: "a4", margin: 10mm)
-// 实际投稿时，不要包含任何样式设置。但如果忘了删也没无大碍，编辑们会搞定的。
+// 实际投稿时，不要包含任何样式设置。但如果忘了删也无妨，编辑们会搞定的。
 
 
 
